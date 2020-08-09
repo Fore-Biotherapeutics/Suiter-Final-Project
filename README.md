@@ -22,7 +22,7 @@ An app for selecting a suit and adapting it to the user.
 > * [Introduction](#introduction)
 > * [Table of contents](#table-of-contents)
 > * [Installation](#installation)
->   * [Step #1: Android Studio and Python Installation](#step-1-android-studio-and-python-installation)
+>   * [Step #1: Python Installation](#step-1-python-installation)
 >   * [Step #2: Download the project folder (with all the files) from Github](#step-2-download-the-project-folder-with-all-the-files-from-github)
 > * [Usage](#usage)
 >   * [Explanation about ` AndroidProject ` folder](#explanation-about-androidproject-folder)
