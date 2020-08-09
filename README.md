@@ -20,8 +20,8 @@ An app for selecting a suit.
 > * [Introduction](#introduction)
 > * [Table of contents](#table-of-contents)
 > * [Usage](#usage)
->   * [Explanation about ` AndroidProject `](#explanation-about-androidproject)
->   * [` AndroidProject ` (Suiter App) Example](#androidproject-suiter-app-example)
+>   * [Explanation about ` Suiter Project `](#explanation-about-suiter-project)
+>   * [` Suiter Project ` (Suiter App) Example](#suiter-project-suiter-app-example)
 > * [Authors](#authors)
 > * [License](#license)
 > * [Acknowledgments](#acknowledgments)
@@ -29,13 +29,13 @@ An app for selecting a suit.
 
 ## Usage
 
-#### Explanation about ` AndroidProject `
+#### Explanation about ` Suiter Project `
 
 This project is available in the Google Play and can be downloaded for all Android users:
 [Download Suiter for Android now!](https://play.google.com/store/apps/details?id=com.suiter.suiterprototype)
 
 
-#### ` AndroidProject ` (Suiter App) Example
+#### ` Suiter Project ` (Suiter App) Example
 
 ![GIF](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/Pictures%20to%20README/AndroidPictures/suiter_video_gif_1.gif)
 
