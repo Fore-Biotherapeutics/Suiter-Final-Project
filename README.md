@@ -1,6 +1,6 @@
 <p align="center">
-   <a href="https://github.com/JosephGolubchik/SuiterFinalProject">
-   <img src="https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/logo_small.png" title="Suiter - Final Project" alt="Suiter - Final Project">
+   <a href="https://github.com/elihaimov1992/Suiter-Final-Project">
+   <img src="https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/Pictures%20to%20README/logo_small.png" title="Suiter - Final Project" alt="Suiter - Final Project">
 </a>
    </p>
 
