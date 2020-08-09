@@ -39,65 +39,35 @@ An app for selecting a suit and adapting it to the user.
 ## Installation
 
 
-#### Step #1: Android Studio and Python Installation
+#### Step #1: Python Installation
 
-To run the projects in Android Studio and Python, you need to:
- * Install [Android Studio](https://developer.android.com/studio).
+To run the projects in Python, you need to:
  * Install [Python 3.7](https://www.python.org/downloads/).
  * Install [Swig](http://www.swig.org/download.html)
  
  
  #### Step #2: Download the project folder (with all the files) from Github
  
- At the end of downloading the folder, [Usage](#usage) provides detailed explanations about the installations and uses of the 2 subfolders (` AndroidProject ` and ` PythonProject `), respectively.
- 
+ At the end of downloading the folder, [Usage](#usage) provides detailed explanations about the installations and uses of the ` PythonProject ` subfolder.
 **Note: The explanation of all the algorithms is in the "Acknowledgments" content.
 
 
 ## Usage
 
-The project (file) is divided into 2 parts, 2 sub-files:
-1. ` AndroidProject ` folder - a folder with all the codes and graphic material (images) associated with the Suiter application.
+The project (file) is divided into 2 parts:
+1. ` AndroidProject ` - the app is available in the Google Play.
 2. ` PythonProject ` folder - a folder with all the codes (and libraries) and graphic material (images) related to the general algorithm of clothing worn on a human object identified in the image (by algorithms related to deep learning and computer vision)
 
 
-#### Explanation about ` AndroidProject ` folder
+#### Explanation about ` AndroidProject `
 
-When you enter Android Studio, go to: ` File -> New -> Import Project.. ` and select the ` AndroidProject ` subfolder in the project folder (` Suiter-Project `).
-
-
-<a><img src="https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/AndroidPictures/pic1.jpg" title="Suiter - Final Project" alt="Suiter - Final Project"></a>
-
-Explanation of the main files of this folder (` AndroidProject `):
-* ` app -> manifest -> AndroidManifest.xml `: XML file with all the permissions of this application.
-* ` app -> java -> com -> example -> suiterfinalproject -> Activities -> CreateOutfitActivity `: A JAVA file that contains the main codes of this application, such as: initializing the objects and setting the actions of all the buttons in the application.
-
-
-<a><img src="https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/AndroidPictures/pic2.jpg" title="Suiter - Final Project" alt="Suiter - Final Project"></a>
-* ` app -> java -> com -> example -> suiterfinalproject -> Adapters -> ColorListAdapter `: A JAVA file which is responsible for matching the color list to all the items of the suit in this application.
-* ` app -> java -> com -> example -> suiterfinalproject -> Models -> .. `: 
-   1. ` ClothingColor ` : A JAVA file with functions (setters and getters) for receiving and returning the colors of the clothing details in this application.
-   2. ` ClothingItem ` : A JAVA file with functions (setters and getters) for receiving and returning the colors of the clothing specific category in this application.
-   3. ` ColorData ` : A JAVA file with arrays with a list of all the colors of the suit items in this application.
-   4. ` Outfit ` : A JAVA file with functions (setters and getters) for receiving and returning the clothing items in this application.
-* ` app -> res -> drawable `: Folder with all the graphic material (images) that appears in this application.
-
-**Note: All the graphic material is in the ` drawable ` folder, when the project is uploaded in the explained instructions, all the graphic materials will also be uploaded automatically, which will be downloaded with the entire ` AndroidProject ` subfolder (in the process of downloading the ` Suiter-Project ` project file).
-
-
-<a><img src="https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/AndroidPictures/pic3.jpg" title="Suiter - Final Project" alt="Suiter - Final Project"></a>
-* ` app -> res -> layout -> activity_create_outfit.xml `: An XML file with all the layers of objects and graphics that appear on the main page of the application. This file is responsible for the all this page and size and location of these parts.
-
-
-<a><img src="https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/AndroidPictures/pic4.jpg" title="Suiter - Final Project" alt="Suiter - Final Project"></a>
-* ` app -> res -> layout -> activity_main.xml `: An XML file that serves as a login page for the application, a kind of temporary page that pops up at the login to the application and is followed by the main page of this application.
-* ` app -> res -> layout -> info.xml `: An XML file used as an information page. By pressing the information button, located in the lower area on the right side of the app, the above page will appear.
+This project is available in the Google Play and can be downloaded for all Android users:
+[Download Suiter for Android now!](https://play.google.com/store/apps/details?id=com.suiter.suiterprototype)
 
 
 #### ` AndroidProject ` (Suiter App) Example
 
 ![GIF](https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/AndroidPictures/suiter_video_gif_1.gif)
-
 
 
 #### Explanation about ` PythonProject ` folder
@@ -168,8 +138,8 @@ The process will take around half a minute, and then the result will appear:<br>
 
 ## Authors
 
-* **Eli Haimov (ID. 308019306)** - *Programmer*
-* **Yosi Golubchik (ID. 209195353)** - *Programmer*
+* **Eli Haimov (ID. 308019306)** - *Development Team Leader*
+* **Yosi Golubchik (ID. 209195353)** - *Software Developer*
 
 
 ## License
