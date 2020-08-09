@@ -67,7 +67,7 @@ This project is available in the Google Play and can be downloaded for all Andro
 
 #### ` AndroidProject ` (Suiter App) Example
 
-![GIF](https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/AndroidPictures/suiter_video_gif_1.gif)
+![GIF](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/Pictures%20to%20README/AndroidPictures/suiter_video_gif_1.gif)
 
 
 #### Explanation about ` PythonProject ` folder
@@ -104,7 +104,7 @@ Then run `python run.py`
 
 Running `run.py` will open a GUI interface:<br>
 <p align="center">
-   <img src="https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/PythonPictures/empty_gui.PNG?raw=true"><br>
+   <img src="https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/Pictures%20to%20README/PythonPictures/empty_gui.PNG?raw=true"><br>
 </p>
 To choose an image you can either load an image url, or browse for an iamge in your computer. The image should be: <br>
 Front view, Full body, the person should be in sort of an "A Pose".<br>
@@ -112,20 +112,20 @@ You can also choose colors for the trousers, shirt and jacket by pressing the co
 
 After choosing an image it will appear in the GUI:<br>
 <p align="center">
-   <img src="https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/PythonPictures/image_gui.PNG?raw=true"><br>
+   <img src="https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/Pictures%20to%20README/PythonPictures/image_gui.PNG?raw=true"><br>
 </p>
 After choosing an image and suit colors, Press "Process Image" to apply a suit to the image.<br>
 
 The process will take around half a minute, and then the result will appear:<br>
 <p align="center">
-   <img src="https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/PythonPictures/result_gui.PNG?raw=true"><br>
+   <img src="https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/Pictures%20to%20README/PythonPictures/result_gui.PNG?raw=true"><br>
 </p>
 
 
 #### ` PythonProject ` Algorithm
 
 <p align="center">
-   <img src="https://github.com/JosephGolubchik/SuiterFinalProject/blob/master/Pictures%20to%20README/PythonPictures/steps_v2.png?raw=true"><br>
+   <img src="https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/Pictures%20to%20README/PythonPictures/steps_v2.png?raw=true"><br>
 </p>
 
 
