@@ -6,15 +6,13 @@
 
 # Suiter - Final Project
 
-An app for selecting a suit and adapting it to the user.
-
+An app for selecting a suit.
 
 ## Introduction
 
- * Project goal: Our goal is to create an app that helps users choose a suit and see how it looks on them before buying it.
+ * Project goal: Our goal is to create an app that helps users choose a suit and see how it looks before buying it.
 
- * The Suiter application will allow the user to choose a suit for himself and see how it will look on him. The user will provide a front view photograph of himself and 
-   choose colors for the suit, and the application will draw the suit on top of him accordingly.
+ * The Suiter application will allow the user to design a suit for an event by choosing a color for each item (jacket, shirt, tie..) and seeing how it all looks together.
 
 
 ## Table of contents
