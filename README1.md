@@ -37,7 +37,7 @@ The improvements I would make to improve the metrics are (change / improvement p
   * Only CySEC and FCA are provided as top regulators. These are two of the best, but some traders may want to see more leading regulators, so it's recommended to add more.
   * Reducing/reducing the fee collection for cryptocurrencies (Pro) and CFD transactions (Standard and Pro), since this collection is not to the customer's advantage.
 - **Deposit & Withdrawals options:** 
-  * Expand the withdrawal options, because according to this article, you can only withdraw by bank.
+  * Expand the withdrawal options, because according to this article, you can only withdraw by Wire Transfer.
   * Reducing/reducing deposit fees for e-wallets, such as PayPal and Skrill.
   * Reduction of the commission (30%) on withdrawals lower than the required threshold (for example: $ 100), because this commission is too expensive and especially for casual traders.
 - **Trading Features:**
@@ -58,15 +58,24 @@ These 4 companies are the closest competitors to this page, as they are also For
 
 We will present the first three competitors, and we will present 2 things that each, of the three, does better than us (XTB), and 2 things that we do better than the three competitors.
 
-- Advantages of the three competitors:
+#### Advantages of the three competitors:
+
+- **WITHDRAWAL OPTIONS:** The three competitors have more options for withdrawal, when you can withdraw via credit card, Neteller, PerfectMoney, Skrill and also Wire Transfer, unlike us (XTB), which can only be withdrawn by Wire Transfer.
 
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/cons2.png)
 
+- **TRADING PLATFORM SUPPORTED LANGUAGES:** The three competitors' trading platform supports a variety of languages, unlike our platform (XTB), which only supports one language.
+
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/cons1.png)
 
-- Disadvantages of the three competitors:
+
+#### Disadvantages of the three competitors:
+
+- **Amount withdrawal options:** The three competitors have less limit on withdrawal, when you can withdraw via credit card, Neteller, PerfectMoney, Skrill and also Wire Transfer, unlike us (XTB), which can only be withdrawn by Wire Transfer.
 
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/pros1.png)
+
+- **Amount withdrawal options:** The three competitors have less limit on withdrawal, when you can withdraw via credit card, Neteller, PerfectMoney, Skrill and also Wire Transfer, unlike us (XTB), which can only be withdrawn by Wire Transfer.
 
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/pros2.png)
 
