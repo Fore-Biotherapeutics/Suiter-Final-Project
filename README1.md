@@ -65,17 +65,22 @@ We will present the first three competitors, and we will present 2 things that e
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/cons2.png)
 
 
+
+
 - **TRADING PLATFORM SUPPORTED LANGUAGES:** The three competitors' trading platform supports a variety of languages, unlike our platform (XTB), which only supports one language.
 
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/cons1.png)
 
 
-### Disadvantages of the three competitors:
 
+
+### Disadvantages of the three competitors:
 
 - **MIN DEPOSIT:** Deposits with us (XTB), in each of the indicated accounts, are usually free of charge, unlike our three competitors, who must pay a commission of a certain amount for the purpose of the deposit. Therefore, our deposit (XTB) is minimal compared to our three competitors.
 
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/pros1.png)
+
+
 
 
 - **TRADES BONDS:** In our platform it is possible to trade in bonds, unlike the three competing platforms, which are not possible.
