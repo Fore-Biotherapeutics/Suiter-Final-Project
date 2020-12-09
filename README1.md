@@ -6,7 +6,9 @@
 **Eli Haimov**
 
 
-#### Question No. 1: What is the purpose of the page and what are the key metrics you assume we are monitoring and optimizing for?
+## Questions:
+
+#### Q1. What is the purpose of the page and what are the key metrics you assume we are monitoring and optimizing for?
 
 The purpose of this page is to provide readers of the site "FX EMPIRE", with insight and deep understanding of the Forex and CFD broker: "XTB", thorough and unbiased reviews, detailed by researching, analyzing and discussing aspects of the product and service, in order to help the investor understand whether this is the right broker for his needs.
 The key metrics that we follow in this reviewed article and take care to optimize them, are the section overview:
@@ -26,7 +28,7 @@ The key metrics that we follow in this reviewed article and take care to optimiz
 - FAQ
 
 
-#### Question No. 2: What would you do in order to improve these metrics?
+#### Q2. What would you do in order to improve these metrics?
 
 The improvements I would make to improve the metrics are (change / improvement per metric):
 - **Tradable Products:** Despite the availability of major currencies, such as: EUR, USD, GBP, it is recommended to expand types of Account Base Currency.
@@ -47,8 +49,16 @@ The improvements I would make to improve the metrics are (change / improvement p
 - **Research:** Adding depth and detail in certain areas that some traders would like to see, in the research-related part.
 
 
-#### Question No. 3: Who do you think are the closest competitors for this page - Please provide 3 competitors with 2 things each of them does better and 2 things they do worse than us.
+#### Q3. Who do you think are the closest competitors for this page - Please provide 3 competitors with 2 things each of them does better and 2 things they do worse than us.
+These 4 companies are the closest competitors to this page, as they are also Forex and CFD brokers:
+- Plus500 (https://www.fxempire.com/brokers/plus500#customer)
+- FBS (https://www.fxempire.com/brokers/fbs#customer)
+- OctaFX (https://www.fxempire.com/brokers/octafx#customer)
+- FXCM (https://www.fxempire.com/brokers/fxcm#customer)
 
+We will present the first three competitors, and we will present 2 things that each, of the three, does better than us (XTB), and 2 things that we do better than the three competitors.
+
+- Advantages of the three competitors:
 
 ## Sources
 
