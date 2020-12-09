@@ -60,14 +60,14 @@ We will present the first three competitors, and we will present 2 things that e
 
 ### Advantages of the three competitors:
 
-- **WITHDRAWAL OPTIONS:** The three competitors have more options for withdrawal, when you can withdraw via credit card, Neteller, PerfectMoney, Skrill and also Wire Transfer, unlike us (XTB), which can only be withdrawn by Wire Transfer.
+- **'WITHDRAWAL OPTIONS':** The three competitors have more options for withdrawal, when you can withdraw via credit card, Neteller, PerfectMoney, Skrill and also Wire Transfer, unlike us (XTB), which can only be withdrawn by Wire Transfer.
 
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/cons2.png)
 
 
 
 
-- **TRADING PLATFORM SUPPORTED LANGUAGES:** The three competitors' trading platform supports a variety of languages, unlike our platform (XTB), which only supports one language.
+- **'TRADING PLATFORM SUPPORTED LANGUAGES':** The three competitors' trading platform supports a variety of languages, unlike our platform (XTB), which only supports one language.
 
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/cons1.png)
 
@@ -76,14 +76,14 @@ We will present the first three competitors, and we will present 2 things that e
 
 ### Disadvantages of the three competitors:
 
-- **MIN DEPOSIT:** Deposits with us (XTB), in each of the indicated accounts, are usually free of charge, unlike our three competitors, who must pay a commission of a certain amount for the purpose of the deposit. Therefore, our deposit (XTB) is minimal compared to our three competitors.
+- **'MIN DEPOSIT':** Deposits with us (XTB), in each of the indicated accounts, are usually free of charge, unlike our three competitors, who must pay a commission of a certain amount for the purpose of the deposit. Therefore, our deposit (XTB) is minimal compared to our three competitors.
 
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/pros1.png)
 
 
 
 
-- **TRADES BONDS:** In our platform it is possible to trade in bonds, unlike the three competing platforms, which are not possible.
+- **'TRADES BONDS':** In our platform it is possible to trade in bonds, unlike the three competing platforms, which are not possible.
 
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/pros2.png)
 
