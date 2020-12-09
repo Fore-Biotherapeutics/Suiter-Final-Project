@@ -52,6 +52,6 @@ The improvements I would make to improve the metrics are (change / improvement p
 
 ## Sources
 
-* XTB Review 2020 (FXEMPIRE): [https://www.fxempire.com/brokers/xtb#deposit](https://www.fxempire.com/brokers/xtb#deposit)
+* XTB Review 2020 (FX EMPIRE): [https://www.fxempire.com/brokers/xtb#deposit](https://www.fxempire.com/brokers/xtb#deposit)
 * XTB Review 2020 and Technical Opinions (INVESTINGOAL): [https://investingoal.com/xtb-review/](https://investingoal.com/xtb-review/)
 * XTB Online Trading (XTB) Review 2020 (Investopedia): [https://www.investopedia.com/xtb-review-4587935](https://www.investopedia.com/xtb-review-4587935)
