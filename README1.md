@@ -39,3 +39,15 @@ The improvements I would make to improve the metrics are (change / improvement p
 - **Research:** Adding depth and detail in certain areas that some traders would like to see, in the research-related part.
 
 #### Question No. 3: Who do you think are the closest competitors for this page - Please provide 3 competitors with 2 things each of them does better and 2 things they do worse than us.
+
+
+## Authors
+
+* **Eli Haimov**
+
+
+## Sources
+
+* FXEMPIRE: XTB Review 2020 [https://www.fxempire.com/brokers/xtb#deposit](https://www.fxempire.com/brokers/xtb#deposit)
+* INVESTINGOAL: XTB Review 2020 and Technical Opinions [https://investingoal.com/xtb-review/](https://investingoal.com/xtb-review/)
+* Investopedia: XTB Online Trading (XTB) Review 2020 [https://www.investopedia.com/xtb-review-4587935](https://www.investopedia.com/xtb-review-4587935)
