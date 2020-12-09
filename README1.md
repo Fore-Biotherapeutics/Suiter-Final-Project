@@ -59,7 +59,17 @@ These 4 companies are the closest competitors to this page, as they are also For
 We will present the first three competitors, and we will present 2 things that each, of the three, does better than us (XTB), and 2 things that we do better than the three competitors.
 
 - Advantages of the three competitors:
+
+![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/cons2.png)
+
 ![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/cons1.png)
+
+- Disadvantages of the three competitors:
+
+![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/pros1.png)
+
+![](https://github.com/elihaimov1992/Suiter-Final-Project/blob/master/pros2.png)
+
 
 ## Sources
 
