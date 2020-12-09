@@ -1,7 +1,13 @@
 # Assignment:
 
 
+## Author
+
+* **Eli Haimov**
+
+
 #### Question No. 1: What is the purpose of the page and what are the key metrics you assume we are monitoring and optimizing for?
+
 The purpose of this page is to provide readers of the site "FX EMPIRE", with insight and deep understanding of the Forex and CFDs broker: "XTB", thorough and unbiased reviews, detailed by researching, analyzing and discussing aspects of the product and service, in order to help the investor understand whether this is the right broker for his needs.
 The key metrics that we follow in this reviewed article and take care to optimize them, are the section overview:
 - Investor Protection & Regulations
@@ -19,7 +25,9 @@ The key metrics that we follow in this reviewed article and take care to optimiz
 - Trading Experience
 - FAQ
 
+
 #### Question No. 2: What would you do in order to improve these metrics?
+
 The improvements I would make to improve the metrics are (change / improvement per metric):
 - **Tradable Products:** Despite the availability of major currencies, such as: EUR, USD, GBP, it is recommended to expand types of Account Base Currency.
 - **Account Opening:** 
@@ -38,12 +46,8 @@ The improvements I would make to improve the metrics are (change / improvement p
 - **Bonus & Promotions:** Because account holders with European regulators and some other global regulators are not offered any bonus or promotions due to regulatory restrictions, these restrictions should be considered and "balanced" or "balanced" by a temporary/initial discount on the amount of a certain fee, such as a discount on the Pro bill in collection Commission on one of the above tools: Forex, Commodities, Indices, or cryptocurrencies. Likewise, the customer who is not from Belize, will not feel deprived and will receive a certain promotions/bonus when registering.
 - **Research:** Adding depth and detail in certain areas that some traders would like to see, in the research-related part.
 
+
 #### Question No. 3: Who do you think are the closest competitors for this page - Please provide 3 competitors with 2 things each of them does better and 2 things they do worse than us.
-
-
-## Authors
-
-* **Eli Haimov**
 
 
 ## Sources
